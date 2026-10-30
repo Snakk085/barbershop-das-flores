@@ -1,0 +1,6 @@
+{
+  "name": "BarberShop Das Flores - Sistema de Agendamento & Gestão",
+  "description": "Sistema completo para a Barbearia Das Flores em Fortaleza-CE. PWA Mobile-First, painéis para André, Neto e Dono, Pix No-Show, combos promocionais e automação WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
